@@ -21,8 +21,9 @@
   <tr>
     <td align="center" style="width:16.66%;">
       <b>Languages</b><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java" />
       <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java" />
       <img src="https://cdn.simpleicons.org/python" width="32" height="32" alt="Python" />
     </td>
     <td align="center" style="width:25%;">
