@@ -74,6 +74,26 @@
 
 ## 📈 GitHub activity 
 
+<p align="center">
+  <img
+    src="dist/stats.svg"
+    alt="GitHub activity"
+    width="900"
+  />
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="dist/github-contribution-grid-snake-dark.svg"
+  >
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="dist/github-contribution-grid-snake.svg"
+    width="1000"
+  >
+</picture>
+
 <table>
   <tr>
     <td valign="top" style="padding-left: 16px;">
