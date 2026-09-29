@@ -9,7 +9,7 @@
 
 ## 📌 Executive summary
 
-- 3+ years in QA Automation (UI, API, E2E, CI/CD).
+- 4 years in QA Automation (UI, API, E2E, CI/CD).
 - Focus on reliable, maintainable frameworks and transparent reporting.
 - Experience in payment solutions, communication platforms, and SaaS products.
   
@@ -75,20 +75,6 @@
 
 ## 📈 GitHub activity 
 
-<table>
-  <tr>
-    <td valign="top" style="padding-left: 16px;">
-      <img src="https://streak-stats.demolab.com?user=irisamo&theme=dark" alt="GitHub Streak" width="450" />
-      <br><br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=IriSamo&bg_color=100f0f&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true&hide_title=true" alt="GitHub Activity Graph" width="500" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=irisamo&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&rank_icon=github&hide_title=true" alt="GitHub stats" width="500" />
-    </td>
-  </tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" width="1000">
-</picture>
+<p>
+  <img src="https://streak-stats.demolab.com?user=IriSamo&hide_border=true" height="160" alt="GitHub streak" />
+</p>
